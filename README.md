@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning all about programming ang IT in university.
+🌱 I’m currently learning all about programming and IT in university.
 
 <!--
 **andriikopaihorodskyi/andriikopaihorodskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
